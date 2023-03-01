@@ -1,6 +1,6 @@
 # dcr-ch
 
-## 想要联系我们，可以通过加入矩阵聊天室或者在issues留言
+## 想要联系我们，可以通过加入矩阵聊天室或者在仓库中直接开issues留言
 加入方式 https://github.com/Cagedbird1/dcr-ch/issues/1#issue-1604852894
 或者 https://matrix.to/#/!uhHDVCMwTVImMExFgO:decred.org?via=decred.org
 
