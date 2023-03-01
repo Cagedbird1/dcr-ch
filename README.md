@@ -1,6 +1,8 @@
 # dcr-ch
 
 ## 想要联系我，可以直接通过加入矩阵聊天室
+加入方式 https://github.com/Cagedbird1/dcr-ch/issues/1#issue-1604852894
+
 
 # 寻找热爱自由的朋友一起工作
 
